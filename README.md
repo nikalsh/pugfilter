@@ -1,8 +1,8 @@
 # PugFilter
 
-An addon for World of Warcraft 1.12.1.
+World chat pug filter addon for World of Warcraft 1.12.1.
 
-The purpose of this addon is to filter out LFM messages from World chat. It doesn't remove any message but copies and outputs any messages containing "LF" and at least one word from a customizable list of keywords into the default chat frame. 
+The purpose of this addon is to filter out LFM messages from World chat. It doesn't remove any message but copies and outputs any messages containing "LF" and at least one word from a customizable list of keywords into the default chat frame. This makes it easy to parse whatever pug groups you're interested in joining when the World chat is moving fast. 
 
 ## Usage
 ```
