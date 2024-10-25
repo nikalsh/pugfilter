@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: PugFilter
+## Author: Niklas Helander
+## Notes: Addon for filtering LFM messages to the default chat frame.
+## Version: 0.0.1
+## SavedVariablesPerCharacter: keywords, toggle
+PugFilter.lua
